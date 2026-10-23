@@ -1,0 +1,6 @@
+numpy
+pandas
+scikit-learn>=1.5
+xgboost>=2.0
+matplotlib
+scipy
