@@ -59,6 +59,3 @@ only 100 samples (F1 about 0.37). Feature importance is associative, not causal.
 ## Data and citation
 CMS Provider Data Catalog, "Inpatient Rehabilitation Facility - General Information",
 https://data.cms.gov/provider-data/dataset/7t8x-u3ir
-
-## License
-Add the license of your choice (e.g., MIT) before publishing.
